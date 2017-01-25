@@ -1,0 +1,15 @@
+#use this file to produce 'a.out' and run 'a.out' to test the program
+#run this file with 'bash makell'
+
+echo Compiling...
+gfortran -c vectormodule.f90
+sleep 0.05
+gfortran -c simumodule.f90
+sleep 0.05
+gfortran -c simulation.f90
+sleep 0.05
+gfortran simulation.o simumodule.o vectormodule.o
+sleep 0.05
+
+echo Running a.out...
+./a.out

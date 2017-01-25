@@ -1,0 +1,26 @@
+#SimulationTime
+seconds 0
+minutes 0
+hours 0
+days 0
+years 50
+#SimulationTimeStep
+seconds 0
+minutes 0
+hours 0
+days 1
+years 0
+#FilewritingStep
+number 100
+#PositionPrintingStep
+number 0
+#PlanetName Mass(kg) AverageVelocity(m/s) Aphelion(AU) Perihelion(AU)
+Sun 1.98855E30 0 0 0
+Mercury 3.3011E23 47.362E3 0.466697 0.307499
+Venus 4.8675E24 35.02E3 0.728213 0.718440
+Earth 5.97237E24 29.78E3 1.01673 0.9832687
+Mars 6.4171E23 24.077E3 1.6660 1.3814
+Jupiter 1.8986E27 13.07E3 5.45492 4.95029
+Saturn 5.6836E26 9.69E3 10.086 9.024
+Uranus 8.6810E25 6.80E3 20.11 18.33
+Neptune 1.0243E26 5.43E3 30.33 29.81

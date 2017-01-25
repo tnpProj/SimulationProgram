@@ -1,0 +1,18 @@
+#use this to open the project files
+#bash openall
+
+gedit openall &
+sleep 1
+gedit makeall &
+sleep 1
+gedit simulationinput1.txt &
+sleep 1
+gedit vectormodule.f90 &
+sleep 1
+gedit simumodule.f90 &
+sleep 1
+gedit simulation.f90 &
+sleep 1
+gedit animation.py &
+
+

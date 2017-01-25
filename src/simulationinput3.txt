@@ -1,0 +1,19 @@
+#SimulationTime
+seconds 0
+minutes 0
+hours 0
+days 0
+years 200
+#SimulationTimeStep
+seconds 0
+minutes 0
+hours 0
+days 1
+years 0
+#FilewritingStep
+numbers 50
+#PositionPrintingStep
+number 0
+#PlanetName Mass(kg) AverageVelocity(m/s) Aphelion(AU) Perihelion(AU)
+Sun 1.98855E30 0 0 0
+Jupiter 1.8986E27 13.07E3 5.45492 4.95029

@@ -1,0 +1,18 @@
+#use this to open the project files
+#bash openall
+
+emacs openall &
+sleep 1
+emacs makeall &
+sleep 1
+emacs simulationinput1.txt &
+sleep 1
+emacs vectormodule.f90 &
+sleep 1
+emacs simumodule.f90 &
+sleep 1
+emacs simulation.f90 &
+sleep 1
+emacs animation.py &
+
+
